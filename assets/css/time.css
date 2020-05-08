@@ -138,3 +138,11 @@
   .facts-box {
     margin: -200px 0 0 0!important;
   }
+
+  @media only screen and (min-width: 1036px) {
+    
+  .timeline li{
+    width: 4.3333%;
+  }
+
+  }
